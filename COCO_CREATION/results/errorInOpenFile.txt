@@ -1,0 +1,14 @@
+5ba5f9a8-f7dd-11e9-9c95-c8ff28027534.jpg,OpenCV(4.4.0) /tmp/pip-req-build-v7sdauef/opencv/modules/imgproc/src/resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+ 
+5908f519-f7dd-11e9-a7e5-c8ff28027534.jpg,OpenCV(4.4.0) /tmp/pip-req-build-v7sdauef/opencv/modules/imgproc/src/resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+ 
+590843b0-f7b8-11e9-ae80-c8ff28027534.jpg,OpenCV(4.4.0) /tmp/pip-req-build-v7sdauef/opencv/modules/imgproc/src/resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+ 
+5ba3a40b-f7c4-11e9-a030-c8ff28027534.jpg,OpenCV(4.4.0) /tmp/pip-req-build-v7sdauef/opencv/modules/imgproc/src/resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+ 
+ea2b0b95-f7d8-11e9-b827-c8ff28027534.jpg,OpenCV(4.4.0) /tmp/pip-req-build-v7sdauef/opencv/modules/imgproc/src/resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+ 
+6d4e17dc-f7b4-11e9-b8fe-c8ff28027534.jpg,OpenCV(4.4.0) /tmp/pip-req-build-v7sdauef/opencv/modules/imgproc/src/resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+ 
+5ba04e87-f7e1-11e9-94f7-c8ff28027534.jpg,OpenCV(4.4.0) /tmp/pip-req-build-v7sdauef/opencv/modules/imgproc/src/resize.cpp:3929: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+ 
