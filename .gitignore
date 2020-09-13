@@ -2,9 +2,5 @@ images/
 Train/
 data_tfrecord/
 data_tfrecord_2/
-MONK/
+Monk_Object_Detection/
 output_dir/
-
-
-
-
